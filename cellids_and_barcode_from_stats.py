@@ -1,4 +1,3 @@
-import sys 
 from collections import Counter
 
 stats_file = input("Type the name of your stats file including the extension (i.e. test.stats) and press Enter/Return: ")
